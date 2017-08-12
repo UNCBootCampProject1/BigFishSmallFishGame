@@ -1,0 +1,27 @@
+body {
+	background: black;
+}
+
+.main-content {
+	height: 750px;
+}
+
+#map {
+	height: 100%;
+}
+
+.info-content {
+	background: white;
+}
+
+.row {
+	margin-bottom: 0px;
+}
+
+.container {
+	height: 100%;
+}
+
+.info-header {
+	height: : 20%;
+}
